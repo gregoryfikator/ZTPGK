@@ -3,7 +3,7 @@
 public class Ship : MonoBehaviour
 {
     private int collectedBoxes = 0;
-    private int boxesToCollect = 5;
+    private int boxesToCollect = 10;
 
     public bool MissionCompleted
     {
